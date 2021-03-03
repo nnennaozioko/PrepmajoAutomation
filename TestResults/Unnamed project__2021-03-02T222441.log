@@ -1,0 +1,27 @@
+﻿2021-03-02T22:24:41.7380457+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-03-02T22:24:41.7382949+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-03-02T22:24:41.7383007+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-03-02T22:24:41.7413614+00:00;VSTestExecutionThread;Info;Current UserName: 'nelyt', MachineName: 'LAPTOP-OHHEUO82'
+2021-03-02T22:24:41.7882916+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll
+2021-03-02T22:24:41.7886023+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults" (default)
+2021-03-02T22:24:41.7893652+00:00;VSTestExecutionThread;Info;Profile: 
+2021-03-02T22:24:41.8582972+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults\Unnamed project__2021-03-02T222441.log
+2021-03-02T22:24:41.8657641+00:00;Thread#12;Info;Checking activation
+2021-03-02T22:24:43.0772430+00:00;Thread#12;Error;****************************************************************************************************************
+2021-03-02T22:24:43.0782649+00:00;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2021-03-02T22:24:43.0785926+00:00;Thread#12;Error;****************************************************************************************************************
+2021-03-02T22:24:43.0796699+00:00;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2021-03-02T22:24:43.0802191+00:00;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/956EC373067045FB8F68C7B5F04D8E70C86E51BEB7F5896A21E7C0B6F8BC6BD8617C7850/NotActivatedYet
+2021-03-02T22:24:43.0804925+00:00;Thread#12;Error;to execute your Scenarios again.
+2021-03-02T22:24:43.0810120+00:00;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2021-03-02T22:24:43.0812482+00:00;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2021-03-02T22:24:43.0816578+00:00;Thread#12;Error;****************************************************************************************************************
+2021-03-02T22:24:43.0906574+00:00;Thread#12;Error;No tests executed (activation needed)
+2021-03-02T22:24:43.1445950+00:00:Total: 0
+2021-03-02T22:24:43.1500432+00:00:Succeeded: 0
+2021-03-02T22:24:43.1509929+00:00:Ignored: 0
+2021-03-02T22:24:43.1517821+00:00:Pending: 0
+2021-03-02T22:24:43.1535700+00:00:Skipped: 0
+2021-03-02T22:24:43.1544395+00:00:Failed: 0
+2021-03-02T22:24:43.1767743+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

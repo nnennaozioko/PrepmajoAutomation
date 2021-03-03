@@ -1,0 +1,284 @@
+﻿2021-03-03T09:40:44.6867679+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-03-03T09:40:44.6871782+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-03-03T09:40:44.6871911+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-03-03T09:40:44.6922654+00:00;VSTestExecutionThread;Info;Current UserName: 'nelyt', MachineName: 'LAPTOP-OHHEUO82'
+2021-03-03T09:40:44.7657179+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll
+2021-03-03T09:40:44.7666925+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults" (default)
+2021-03-03T09:40:44.7673487+00:00;VSTestExecutionThread;Info;Profile: 
+2021-03-03T09:40:44.8628127+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults\Unnamed project__2021-03-03T094044.log
+2021-03-03T09:40:44.8757787+00:00;Thread#12;Info;Checking activation
+2021-03-03T09:40:45.0750996+00:00;Thread#12;Info;Activated.
+2021-03-03T09:40:45.0759429+00:00;Thread#12;Info;Activation check completed
+2021-03-03T09:40:45.0766037+00:00;Thread#12;Info;Starting test run
+2021-03-03T09:40:45.2692209+00:00;Thread#12;Info;Discovering target: Default
+2021-03-03T09:40:45.2695623+00:00;Thread#12;Info;Discovering tests from assembly: C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll
+2021-03-03T09:40:45.5927365+00:00;Thread#12;Info;Discovered tests from assembly: C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll
+2021-03-03T09:40:45.5954526+00:00:Test Suite Dump
+2021-03-03T09:40:45.5997393+00:00:#0: Unnamed project/ - 
+2021-03-03T09:40:45.5997825+00:00:#1: Default - 
+2021-03-03T09:40:45.5997881+00:00:#2: PrepMajorAutomation - 
+2021-03-03T09:40:45.5997914+00:00:#3: Search - 
+2021-03-03T09:40:45.6022115+00:00:#4: Search for a course - TestAssembly:PrepMajorAutomation/Feature:Search/Scenario:Search+for+a+course
+2021-03-03T09:40:45.6023564+00:00:End: Test Suite Dump
+2021-03-03T09:40:45.6366400+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-03T09:40:45.6396762+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-03-03T09:40:45.6397991+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-03T09:40:45.6443899+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-03T09:40:45.6444138+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-03T09:40:45.6444169+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-03T09:40:45.6444213+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-03T09:40:45.6465961+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-03T09:40:45.6494509+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-03-03T09:40:45.6539476+00:00:Thread #0: creating new test thread executor for PrepMajorAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-03-03T09:40:45.6584241+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-03-03T09:40:45.6587656+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-03-03T09:40:45.7042456+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-03-03T09:40:45.7094983+00:00:starting Out Of Process Executor
+2021-03-03T09:40:45.8164886+00:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:45.8233575+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-03-03T09:40:45.8233949+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-03-03T09:40:45.8259529+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:45.8267685+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-03-03T09:40:45.8269607+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-03-03T09:40:45.8270392+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:45.8275818+00:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-03T09:40:45.8289546+00:00:Tfm: netcoreapp3.1
+2021-03-03T09:40:45.8289856+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:45.8289954+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-03-03T09:40:45.8291879+00:00:[AssemblyCache] Found file 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-03-03T09:40:45.8300457+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-03-03T09:40:45.8314371+00:00:Starting callback TCP Rpc server
+2021-03-03T09:40:45.8766620+00:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-03-03T09:40:45.8770639+00:00:Started callback TCP Rpc server on port 32768
+2021-03-03T09:40:45.8770863+00:00:Starting logger TCP Rpc server
+2021-03-03T09:40:45.8818840+00:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-03-03T09:40:45.8819519+00:00:Started logger TCP Rpc server on port 32769
+2021-03-03T09:40:46.3199949+00:00:Executing test executor at 'dotnet' 'exec "C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 3076 --uniqueId "2021-03-03T094044" --outputFolder "C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:46.3442651+00:00:Executor with PID 13364 has been started successfully.
+2021-03-03T09:40:46.3599937+00:00:Out of Process Executor 13364 started
+2021-03-03T09:40:46.3600175+00:00:Waiting for endpoint
+2021-03-03T09:40:47.2048765+00:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=en-GB, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:47.2049147+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-03-03T09:40:47.2049223+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-03-03T09:40:47.2049305+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:47.2049349+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-03-03T09:40:47.2051555+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-03-03T09:40:47.2053732+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:47.2053891+00:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-03T09:40:47.2054376+00:00:Tfm: netcoreapp3.1
+2021-03-03T09:40:47.2054478+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:47.2054511+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-03-03T09:40:47.2055805+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-03-03T09:40:47.2056922+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:47.2222795+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:47.2223157+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\StreamJsonRpc.resources.dll'
+2021-03-03T09:40:47.2228881+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\StreamJsonRpc.resources.exe'
+2021-03-03T09:40:47.2229978+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:47.2233153+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:47.2240037+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\StreamJsonRpc.resources.dll'
+2021-03-03T09:40:47.2241089+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\StreamJsonRpc.resources.exe'
+2021-03-03T09:40:47.2241960+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:47.2249172+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:47.2249422+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\StreamJsonRpc.resources.dll'
+2021-03-03T09:40:47.2254885+00:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\StreamJsonRpc.resources.exe'
+2021-03-03T09:40:47.2255835+00:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:47.2271300+00:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:47.2284655+00:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:47.2284924+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-03-03T09:40:47.2284970+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-03-03T09:40:47.2285137+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:47.2285376+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-03-03T09:40:47.2286104+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-03-03T09:40:47.2286911+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:47.2287009+00:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-03T09:40:47.2287207+00:00:Tfm: netcoreapp3.1
+2021-03-03T09:40:47.2287290+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:47.2287374+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-03-03T09:40:47.2288671+00:00:[AssemblyCache] Found file 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-03-03T09:40:47.2296852+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-03-03T09:40:47.9928209+00:00:Remote executor port received: 32770
+2021-03-03T09:40:47.9937615+00:00:Creating executor TCP client on port 32770
+2021-03-03T09:40:47.9947559+00:00:Created executor TCP client on port 32770
+2021-03-03T09:40:47.9947807+00:00:Connecting to remote executor TCP server
+2021-03-03T09:40:47.9965226+00:00:Connected remote executor TCP server
+2021-03-03T09:40:47.9969936+00:00:trying to connect to Out of Process Executor the 1 attempt
+2021-03-03T09:40:47.9970212+00:00:Connection to Out of Process Executor established in the 1 attempt
+2021-03-03T09:40:48.3049018+00:00:2021-03-03T09:40:48.3007217+00:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll on test thread #0
+2021-03-03T09:40:48.3178253+00:00:Endpoint 13364 started
+2021-03-03T09:40:48.3665932+00:00:2021-03-03T09:40:48.3655851+00:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-03-03T09:40:48.6604698+00:00:2021-03-03T09:40:48.6556625+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-03-03T09:40:48.6778339+00:00:2021-03-03T09:40:48.6688659+00:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-03-03T09:40:48.6991309+00:00:2021-03-03T09:40:48.6857618+00:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\nelyt\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-03-03T09:40:48.9662471+00:00:2021-03-03T09:40:48.9571810+00:00:Thread#0:T:-> Loading plugin C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\PrepMajorAutomation.dll
+2021-03-03T09:40:48.9868989+00:00:2021-03-03T09:40:48.9687700+00:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-03T09:40:49.0107129+00:00:2021-03-03T09:40:48.9891433+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-03-03T09:40:49.0270646+00:00:2021-03-03T09:40:49.0245499+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\nelyt\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-03-03T09:40:49.1126885+00:00:2021-03-03T09:40:49.1116102+00:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-03T09:40:49.1135698+00:00:2021-03-03T09:40:49.1131223+00:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-03-03T09:40:49.1146055+00:00:2021-03-03T09:40:49.1141296+00:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\nelyt\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-03-03T09:40:49.1304760+00:00:2021-03-03T09:40:49.1299424+00:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in PrepMajorAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-03-03T09:40:49.1316880+00:00:2021-03-03T09:40:49.1311506+00:00:Thread#0:T:-> Loading plugin C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-03-03T09:40:49.1416376+00:00:2021-03-03T09:40:49.1411603+00:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-03-03T09:40:49.1424778+00:00:2021-03-03T09:40:49.1420511+00:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-03-03T09:40:49.1436113+00:00:2021-03-03T09:40:49.1431363+00:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\nelyt\.nuget\packages\specflow.plus.livingdocplugin\3.7.10\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-03-03T09:40:49.1511511+00:00:2021-03-03T09:40:49.1506924+00:00:Thread#0:T:-> Loading plugin C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-03-03T09:40:49.1635034+00:00:2021-03-03T09:40:49.1629530+00:00:Thread#0:T:-> Using default config
+2021-03-03T09:40:49.1893550+00:00:2021-03-03T09:40:49.1885840+00:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-03-03T09:40:49.1901814+00:00:2021-03-03T09:40:49.1898041+00:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-03-03T09:40:49.1910803+00:00:2021-03-03T09:40:49.1907569+00:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\nelyt\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-03-03T09:40:49.1967971+00:00:2021-03-03T09:40:49.1963347+00:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-03-03T09:40:49.1976353+00:00:2021-03-03T09:40:49.1971739+00:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-03-03T09:40:49.1989214+00:00:2021-03-03T09:40:49.1984875+00:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\nelyt\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-03-03T09:40:49.2253639+00:00:2021-03-03T09:40:49.2248620+00:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:49.9873136+00:00:2021-03-03T09:40:49.2257382+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-03-03T09:40:49.9927501+00:00:2021-03-03T09:40:49.9905058+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\nelyt\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-03-03T09:40:50.0746995+00:00:2021-03-03T09:40:50.0735303+00:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-03-03T09:40:50.0761727+00:00:2021-03-03T09:40:50.0757465+00:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-03-03T09:40:50.0773492+00:00:2021-03-03T09:40:50.0768198+00:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\nelyt\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-03-03T09:40:50.5185058+00:00:Thread#0: Test #4/0 is started on thread #0
+2021-03-03T09:40:50.6066393+00:00:2021-03-03T09:40:50.6003846+00:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-03-03T09:40:50.6079062+00:00:2021-03-03T09:40:50.6074136+00:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-03-03T09:40:50.6109577+00:00:2021-03-03T09:40:50.6101513+00:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\nelyt\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-03-03T09:40:51.4223559+00:00:2021-03-03T09:40:51.4162839+00:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en-GB, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:51.4253839+00:00:2021-03-03T09:40:51.4248974+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-03-03T09:40:51.4261104+00:00:2021-03-03T09:40:51.4257530+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-03-03T09:40:51.4303760+00:00:2021-03-03T09:40:51.4298372+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:51.4469753+00:00:2021-03-03T09:40:51.4462637+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-03-03T09:40:51.4483610+00:00:2021-03-03T09:40:51.4477111+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-03-03T09:40:51.4495930+00:00:2021-03-03T09:40:51.4490057+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:51.4514085+00:00:2021-03-03T09:40:51.4508425+00:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-03T09:40:51.4591868+00:00:2021-03-03T09:40:51.4579690+00:00:Tfm: netcoreapp3.1
+2021-03-03T09:40:51.4604319+00:00:2021-03-03T09:40:51.4598079+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:51.4616770+00:00:2021-03-03T09:40:51.4608858+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-03-03T09:40:51.4630359+00:00:2021-03-03T09:40:51.4623098+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-03-03T09:40:51.4643772+00:00:2021-03-03T09:40:51.4637304+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:51.4964107+00:00:2021-03-03T09:40:51.4955882+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:51.4977362+00:00:2021-03-03T09:40:51.4972136+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\System.Net.Requests.resources.dll'
+2021-03-03T09:40:51.4990125+00:00:2021-03-03T09:40:51.4983903+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\System.Net.Requests.resources.exe'
+2021-03-03T09:40:51.5009868+00:00:2021-03-03T09:40:51.5002848+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:51.5055760+00:00:2021-03-03T09:40:51.5037723+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:51.5068788+00:00:2021-03-03T09:40:51.5061911+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Net.Requests.resources.dll'
+2021-03-03T09:40:51.5144605+00:00:2021-03-03T09:40:51.5127548+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Net.Requests.resources.exe'
+2021-03-03T09:40:51.5169544+00:00:2021-03-03T09:40:51.5155743+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:51.5224853+00:00:2021-03-03T09:40:51.5207769+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:51.5249478+00:00:2021-03-03T09:40:51.5229105+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\System.Net.Requests.resources.dll'
+2021-03-03T09:40:51.5319518+00:00:2021-03-03T09:40:51.5265463+00:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\System.Net.Requests.resources.exe'
+2021-03-03T09:40:51.5393756+00:00:2021-03-03T09:40:51.5337266+00:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:51.5431880+00:00:2021-03-03T09:40:51.5425827+00:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:51.7107802+00:00:2021-03-03T09:40:51.6809526+00:00:Thread#0:B:Given I navigate to "https://wwww.prepmajor.com"
+2021-03-03T09:40:51.7340585+00:00:2021-03-03T09:40:51.7314536+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:51.7465264+00:00:2021-03-03T09:40:51.7448414+00:00:Thread#0:B:When I clicked on the search field
+2021-03-03T09:40:51.7595477+00:00:2021-03-03T09:40:51.7483057+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:51.7983748+00:00:2021-03-03T09:40:51.7610919+00:00:Thread#0:B:And I type "automation" in the search feild
+2021-03-03T09:40:51.8067972+00:00:2021-03-03T09:40:51.7993935+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:51.8081853+00:00:2021-03-03T09:40:51.8076627+00:00:Thread#0:B:And I click the search button
+2021-03-03T09:40:51.8091242+00:00:2021-03-03T09:40:51.8087253+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:51.8104396+00:00:2021-03-03T09:40:51.8099993+00:00:Thread#0:B:Then the result page should display
+2021-03-03T09:40:51.8117105+00:00:2021-03-03T09:40:51.8113122+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:51.8676497+00:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-03-03T09:40:51.8739923+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-03T09:40:51.8741342+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-03-03T09:40:51.8741465+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-03T09:40:51.8743152+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-03T09:40:51.8743327+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-03T09:40:51.8743387+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-03T09:40:51.8743432+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-03T09:40:51.8744164+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-03T09:40:51.8745398+00:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-03-03T09:40:51.9930585+00:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 1.4692836 seconds
+2021-03-03T09:40:52.0006991+00:00:Thread#0: Test #4/1 is started on thread #0
+2021-03-03T09:40:52.5997884+00:00:2021-03-03T09:40:52.5985836+00:00:Thread#0:B:Given I navigate to "https://wwww.prepmajor.com"
+2021-03-03T09:40:52.6030890+00:00:2021-03-03T09:40:52.6016009+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:52.6052407+00:00:2021-03-03T09:40:52.6044150+00:00:Thread#0:B:When I clicked on the search field
+2021-03-03T09:40:52.6068031+00:00:2021-03-03T09:40:52.6059697+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:52.6083383+00:00:2021-03-03T09:40:52.6075322+00:00:Thread#0:B:And I type "automation" in the search feild
+2021-03-03T09:40:52.6101268+00:00:2021-03-03T09:40:52.6091701+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:52.6117322+00:00:2021-03-03T09:40:52.6108875+00:00:Thread#0:B:And I click the search button
+2021-03-03T09:40:52.6131844+00:00:2021-03-03T09:40:52.6124049+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:52.6146463+00:00:2021-03-03T09:40:52.6138174+00:00:Thread#0:B:Then the result page should display
+2021-03-03T09:40:52.6161068+00:00:2021-03-03T09:40:52.6153570+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:52.6226248+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-03T09:40:52.6227152+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-03-03T09:40:52.6227220+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-03-03T09:40:52.6228762+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-03-03T09:40:52.6228902+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-03-03T09:40:52.6228946+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-03-03T09:40:52.6229007+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-03-03T09:40:52.6229680+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-03-03T09:40:52.6230197+00:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-03-03T09:40:52.6283274+00:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.6272543 seconds
+2021-03-03T09:40:52.6311362+00:00:Thread#0: Test #4/2 is started on thread #0
+2021-03-03T09:40:53.2048522+00:00:2021-03-03T09:40:53.2035844+00:00:Thread#0:B:Given I navigate to "https://wwww.prepmajor.com"
+2021-03-03T09:40:53.2087991+00:00:2021-03-03T09:40:53.2078212+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:53.2122179+00:00:2021-03-03T09:40:53.2100424+00:00:Thread#0:B:When I clicked on the search field
+2021-03-03T09:40:53.2147098+00:00:2021-03-03T09:40:53.2136928+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:53.2166434+00:00:2021-03-03T09:40:53.2158225+00:00:Thread#0:B:And I type "automation" in the search feild
+2021-03-03T09:40:53.2201271+00:00:2021-03-03T09:40:53.2190940+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:53.2216898+00:00:2021-03-03T09:40:53.2208129+00:00:Thread#0:B:And I click the search button
+2021-03-03T09:40:53.2234005+00:00:2021-03-03T09:40:53.2225883+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:53.2248235+00:00:2021-03-03T09:40:53.2240637+00:00:Thread#0:B:Then the result page should display
+2021-03-03T09:40:53.2266655+00:00:2021-03-03T09:40:53.2257475+00:00:Thread#0:T:skipped because of previous errors
+2021-03-03T09:40:53.2328311+00:00:Thread#0:Scheduler: get next test for thread 0
+2021-03-03T09:40:53.2328896+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-03-03T09:40:53.2329086+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-03-03T09:40:53.2329202+00:00:Thread#0:Scheduler: No more tests for thread
+2021-03-03T09:40:53.2460932+00:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.6146177 seconds
+2021-03-03T09:40:53.2640480+00:00:2021-03-03T09:40:53.2636705+00:00:Got Deinitialize Signal
+2021-03-03T09:40:53.2721995+00:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-03-03T09:40:53.2739995+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-03-03T09:40:53.2783061+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-03-03T09:40:53.2817357+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-GB, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:53.2817654+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-03-03T09:40:53.2817766+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-03-03T09:40:53.2817885+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:53.2817926+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-03-03T09:40:53.2818816+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-03-03T09:40:53.2819327+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1'
+2021-03-03T09:40:53.2819453+00:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-03-03T09:40:53.2820502+00:00:Tfm: netcoreapp3.1
+2021-03-03T09:40:53.2820658+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:53.2820691+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-03-03T09:40:53.2821431+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-03-03T09:40:53.2822427+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\nelyt\source\repos\PrepMajorAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-03-03T09:40:53.2842440+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:53.2842610+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\System.Diagnostics.Process.resources.dll'
+2021-03-03T09:40:53.2843647+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11\System.Diagnostics.Process.resources.exe'
+2021-03-03T09:40:53.2844313+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.11'
+2021-03-03T09:40:53.2847488+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:53.2847598+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Diagnostics.Process.resources.dll'
+2021-03-03T09:40:53.2848329+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11\System.Diagnostics.Process.resources.exe'
+2021-03-03T09:40:53.2848908+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.11'
+2021-03-03T09:40:53.2851663+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:53.2851770+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\System.Diagnostics.Process.resources.dll'
+2021-03-03T09:40:53.2853271+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11\System.Diagnostics.Process.resources.exe'
+2021-03-03T09:40:53.2854378+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.11'
+2021-03-03T09:40:53.2876481+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-03-03T09:40:53.3043522+00:00:Thread#-1:Scheduler: get next test for thread -1
+2021-03-03T09:40:53.3044289+00:00:Thread#:Scheduler: at the end of normal test queue
+2021-03-03T09:40:53.3044407+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-03-03T09:40:53.3203214+00:00;Thread#12;Info;test run finished
+2021-03-03T09:40:53.3206764+00:00;Thread#12;Info;publishing test results
+2021-03-03T09:40:53.3213799+00:00;Thread#12;Info;Not publishing results.
+2021-03-03T09:40:53.3217924+00:00;Thread#12;Info;test results published
+2021-03-03T09:40:53.3221440+00:00;Thread#12;Info;generating reports
+2021-03-03T09:40:53.5434488+00:00;Thread#12;Info;Starting external report generation process
+2021-03-03T09:40:57.8119432+00:00;Thread#12;Info;Successfully generated reports.
+2021-03-03T09:40:57.8170258+00:00;Thread#12;Info;Successfully generated reports
+2021-03-03T09:40:57.8296506+00:00:Total: 1 (test executions: 3)
+2021-03-03T09:40:57.8325666+00:00:Succeeded: 0
+2021-03-03T09:40:57.8343058+00:00:Ignored: 0
+2021-03-03T09:40:57.8350146+00:00:Pending: 0
+2021-03-03T09:40:57.8350324+00:00:Skipped: 0
+2021-03-03T09:40:57.8356352+00:00:Failed: 1
+2021-03-03T09:40:57.8485408+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-03-03T09:40:57.8491347+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\nelyt\source\repos\PrepMajorAutomation\TestResults\Unnamed project__2021-03-03T094044.html'
+========== End of log file ==========
